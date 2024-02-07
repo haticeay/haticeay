@@ -1,6 +1,15 @@
 ### Hi there 👋, Hatice Ay
 #### Flutter Developer - Software Engineer
- 
+ ## Skills
+
+- **Dart / Flutter:** ![Flutter Logo](https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg) Gelişmiş düzeyde deneyim.
+- **Android Studio:** 
+- **Git / GitHub:** 
+- **Figma:** 
+- **Postman:** 
+- **Firebase:**
+- **VSCode:** 
+
 
 Skills: DART/ FLUTTER/ ANDROİD STUDİO/GİT/GİTHUB/FİGMA/POSTMAN/FİREBASE/VSCODE
 
