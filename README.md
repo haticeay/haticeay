@@ -1,5 +1,5 @@
 ### Hi there 👋, Hatice Ay
-#### Flutter Developer - Software Engineer
+#### Flutter Developer - Computer Engineer
 - 🔭 I’m currently working on Flutter
  ## Skills
 
